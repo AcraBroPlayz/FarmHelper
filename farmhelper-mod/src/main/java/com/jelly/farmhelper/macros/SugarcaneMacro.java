@@ -338,7 +338,7 @@ public class SugarcaneMacro extends Macro {
                     LogUtils.scriptLog("Detected one block off");
                     return BlockUtils.getRelativeBlockPos(0, 0, 5);
                 } else {
-                    return BlockUtils.getRelativeBlockPos(0, 0, 6);
+                    return BlockUtils.getRelativeBlockPos(0, 0, 3);
                 }
 
             }
